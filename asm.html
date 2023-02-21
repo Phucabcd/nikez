@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="asm.css">
+</head>
+<body>
+<div class="box1">
+<header>
+    <img class="logo" src="./img/toppng.png" alt="">
+   <nav>
+        <ul>
+            <li><a href="../asm/man.html"target="_blank">Man</a></li>
+            <li><a href="../asm/women.html"target="_blank">Woman</a></li>
+            <li><a href="../asm/kids.html"target="_blank">Kids</a></li>
+            <li><a href="#">Collections</a></li>
+            
+                <li><a href="#">Help</a>
+                <ul class="sub" ></li>
+                    <li><a href="../asm/Returs.html"target="_blank">Returs</a></li>
+                    <li><a href="../asm/Dispatch and Delivery.html"target="_blank">Dispatch and Delivery</a></li>
+                </ul>
+        </ul>
+   </nav>
+<img class="img1" src="./img/Vector.png" alt="">
+<img class="img2" src="./img/gio hang.png" alt="">
+</header>
+<div class="box1-left"><p class="p1">
+    Nike shoe collection
+</p>
+<p class="p2">Just do it, then do it again</p>
+<button><a href="../asm/trangcon.html">Order now</a></button>
+</div>
+
+<div class="box1-right">
+    <p>Nike</p>
+    <img src="./img/DISPLAY.png" alt="">
+</div>
+</div>
+<div class="box1-giua">
+    <button class="button1">Brand <hr> Over 10+ models available for sale </button>
+    <button class="button2">Color <hr> Variety of colors on display, choose to your taste </button>
+    <button class="button3">Price <hr> All products are affordable, buy and get 20% discount </button>
+</div>
+<div class="box2">
+    <p class="p3">Available Products</p>
+
+
+    <!--end-->
+
+
+    <div class="col-25">
+        <div class="prod">
+            <div class="name">Bestseller</div>
+            <img class="image" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/183653ea-35d1-4022-b895-03642a022779/air-max-90-g-golf-shoe-qlD3wL.png" alt="" height="200" width="150"/>
+            <div class="price"><del>$160</del> $140</div>
+            <div class="icons">
+            </div>
+            <img class="new-icon" src="https://media2.giphy.com/media/QveW8ozhMCpgCm7H2j/source.gif"  alt="" height="50" width="50" />
+           </div>
+    </div>
+    <div class="col-25">
+        <div class="prod">
+            <div class="name">Sold Out</div>
+            <img class="image" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d01cb6e6-5d25-46e6-8851-2bf514d9066c/air-jordan-1-low-g-golf-shoes-8bKbqs.png" alt="" height="200" width="150"/>
+            <div class="price"><del>$120</del> $100</div>
+            <div class="icons">
+            </div>
+            <img class="new-icon" src="https://media2.giphy.com/media/QveW8ozhMCpgCm7H2j/source.gif"  alt="" height="50" width="50" />
+           </div>
+    </div>
+    <div class="col-25">
+        <div class="prod">
+            <div class="name">Ari Jordan</div>
+            <img class="image" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7d757c87-87a5-4e15-a3c4-29587b526fb9/air-jordan-12-low-golf-shoes-GpK0Fl.png" alt="" height="200" width="150"/>
+            <div class="price"><del>$140</del> $120</div>
+            <div class="icons">
+            
+            </div>
+            <img class="new-icon" src="https://media2.giphy.com/media/QveW8ozhMCpgCm7H2j/source.gif"  alt="" height="50" width="50" />
+           </div>
+    </div>
+    <div class="col-25">
+        <div class="prod">
+            <div class="name">Just ln</div>
+            <img class="image" src="https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/98255ce1-9f0b-449a-8d9f-f8009e824107/infinity-pro-2-golf-shoes-drLGkR.png" alt="" height="200" width="150"/>
+            <div class="price"><del>$180</del> $150</div>
+            <div class="icons">
+               
+                </div>
+            <img class="new-icon" src="https://media2.giphy.com/media/QveW8ozhMCpgCm7H2j/source.gif"  alt="" height="50" width="50" />
+           </div>
+    </div>
+</div>
+<div class="box5">
+    <a href="../lab/asm/jordan.html" target="page">Jordan</a>
+    <a href="../lab/asm/lifestyle.html"target="page">Lifestyle</a>
+    <a href="../lab/asm/running.html"target="page">Running</a>
+    <a href="../lab/asm/basketball.html"target="page">Basketball</a>
+    <iframe src="../lab/asm/jordan.html"name=page frameborder="0"></iframe>
+</div>
+<div class="box3">
+    <div class="anh-left">
+        <img src="../asm/img/fa.png" alt="">
+        <img src="../asm/img/ing.png" alt="">
+        <img src="../asm/img/tw.png" alt="">
+        <img src="../asm/img/tiktok.png" alt="">
+    </div>
+    <img class="nike" src="../asm/img/toppng.png" alt="">
+    <div class="anh-right">
+        <img src="../asm/img/a.png" alt="">
+        <img src="../asm/img/b.png" alt="">
+        <img src="../asm/img/c.png" alt="">
+        <img src="../asm/img/d.png" alt="">
+    </div>
+    <div class="hotro">
+        <img src="../asm/img/gach ngang.png" alt="">
+    </div>
+    <p class="p6">Quick Links</p>
+    <br>
+    <div class="p7">
+    <p>My account</p>
+    <br>
+    <p>My cart</p>
+    <br>
+    <p>Wish List</p>
+    </div>
+    <img class="ngang" src="../asm/img/gach dung.png" alt="">
+    <p class="p8">Helpful Links</p>
+    <br>
+    <div class="p9">
+        <p>Shop</p>
+        <br>
+        <p>Privacy Policy</p>
+        <br>
+        <p>FAQ</p>
+        <br>
+        <p>Terms and Conditions</p>
+    </div>
+    <img class="ngang1" src="../asm/img/gach dung.png" alt="">
+    <p class="p10">Our Information</p>
+    <br>
+    <div class="p11">
+        <p>481 Nguyen Van Khoi - Go Vap</p>
+        <br>
+        <p>0911870319</p>
+        <br>
+        <p>nguyentrongphuc03@gmail.com</p>
+    </div>
+    <img class="ngang2" src="../asm/img/gach dung.png" alt="">
+
+    <p class="p12">Get in touch</p>
+    <br>
+    <div class="p13">
+        <p>We appreciate your feedback</p>
+        <br>
+        <textarea name="" id="" cols="30" rows="5">Your message:</textarea>
+        <div class="muiten">
+        <img class="muiten" src="../asm/img/mui ten.png" alt="">
+        </div>
+    </div>
+    
+</div>
+</body>
+</html>
