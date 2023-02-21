@@ -1,0 +1,21 @@
+.anh{
+    display: flex;
+}
+.card{
+    border-radius: 20px;
+    margin-left: 10px;
+    height: 200px;
+    background-color: #fff;
+    flex: 1;
+    transition: .3s all ease;
+   
+}
+.card:hover{
+    flex: 2;
+    background-color: red;
+    
+    
+}
+body{
+    background-color: black;
+}

@@ -1,0 +1,16 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+    border: green;
+}
+tr:nth-child(1){
+    background-color: green;
+}
+tr:nth-child(2){
+    background-color: greenyellow;
+}
+.p1 {
+    color: red;
+   
+    
+}

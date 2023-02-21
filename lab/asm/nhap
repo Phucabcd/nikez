@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="assiment.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        
+        <header>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/U1yX7awE5P0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+            
+        </header>
+        <nav>
+
+            <a href="http://127.0.0.1:5500/lab/asm/trang%20chu.html"target="page">Trang chủ</a>
+            <a href="#" target="page">Giới thiệu </a>
+            <a href="#">Liên hệ</a>
+            <a href="#">Góp ý</a>
+            <a href="#">Hỏi đáp</a>
+            <a href="">Sign in</a>
+        </nav>
+        
+        <article>
+        
+            
+            <br>
+            <iframe src="../asm/trang chu.html"name="page" frameborder="0"></iframe>
+            
+            
+        
+        
+        
+        </article>
+        
+        <aside>
+            
+            
+            <ul class="vmenu">
+                <a href="../asm/lifestyle.html"target="page">Lifestyle</a> 
+                <a href="../asm/jordan.html"target="page">Jordan</a>
+                <a href="../asm/running.html"target="page">Running</a>
+                <a href="#">Basketball</a>
+                <a href="#">Training & Gym</a>
+                <a href="#">Football</a>
+                <a href="#">Skateboarding</a>
+                <a href="#">Golf</a>
+                <a href="#">Nike By You</a>
+        </ul>
+        </aside>
+
+        <footer>
+            TrongPhuc FPT Polytechnic @ 2023
+        </footer>
+    </div>
+</body>
+</html>

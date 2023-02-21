@@ -1,0 +1,27 @@
+table {
+    width: 80%;
+    line-height: 50px;
+    border-color: rgb(4, 46, 77);
+    border: blue;
+  }
+  tr:first-child {
+    background-color:blue
+  }
+  tr:nth-child() {
+    background-color: beige;
+  }
+  tr:nth-child(2n + 3) {
+    background-color: rgb(169, 176, 176);
+  }
+  tr {
+    font-size: 15px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  .tr1 {
+    
+    font-size: 15px;
+    font-family: "Barlow", sans-serif;
+    text-transform: uppercase;
+    background-color: blue;
+  }

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="bai2.css">
+<body>
+    <form>
+        <div class="form-group">
+            <label>Họ và tên:</label> <br> 
+            <input class="form-control" tabindex="1"/> <br>
+        </div>
+        <div>
+            <div class="form-group">
+                <fieldset>  
+              <legend> Giới tính:</legend>
+             <input name="gender" type="radio">Nam <input name="gender" type="radio">Nữ
+            </fieldset>
+            
+        </div>
+            <div class="form-group">
+            <label>Ngày sinh:</label> <br>
+            <input class="form-control" type="date"/>
+        </div>
+        <div class="form-group">
+            <label>Điểm:</label>  <br>
+            <input class="form-control" tabindex=”2” type="number" min="0" max="10" step="0.25" />
+        </div>
+        <div class="form-group">
+            <label>Nghề nghiệp</label> <br>
+            <input class="form-control" list="nghenghiep" >
+            <datalist id="nghenghiep">
+                <option value="cong nghe thong tin"></option>
+                <option value="thiet ke do hoa"></option>
+                <option value="digital marketing"></option>
+                <option value="thiet ke web"></option>
+                <option value="lap trinh mobile"></option>
+            </datalist> 
+            
+        </div>
+        <div>
+            <fieldset> <legend for="">Sở thích:</legend>
+            <input type="checkbox">Thể thao <input type="checkbox">Du lịch <input type="checkbox">Âm nhạc <input type="checkbox">Ẩm thực <br>
+            </fieldset>
+        </div>
+        <div>
+            <label for="">Ghi chú:</label><br>
+            <textarea name="" id="" cols="30" rows="5"class="form-control"></textarea>
+           
+        </div>
+        <hr />
+            <button class="form-button" tabindex=”3”>Thêm</button>
+            <button class="form-button" tabindex=”4”>Sửa</button>
+            <button class="form-button" disabled>Xóa</button>
+    </form>
+</body>
+</html>
