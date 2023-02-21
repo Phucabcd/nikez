@@ -1,9 +1,0 @@
-@import url("https://fonts.googleapis.com/css2?family=Barlow&display=swap");
-      .p1 {
-        color: rgb(224, 64, 1);
-        text-shadow: 2px 2px 5px black;
-        font-weight: bold;
-        font-size: 12px;
-        font-family: "Barlow", sans-serif;
-        text-transform: uppercase;
-      }
